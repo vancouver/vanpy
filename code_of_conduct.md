@@ -9,7 +9,7 @@ We expect you as an attendee and a online or offline participant to
 * be considerate and respectful,
 * be careful in the words that you use.
 
-If you are being made to feel unsafe, uncomfortable, you feel the code of conduct has been violated, or you notice this happening to someone else, please contact an organizer directly or email conduct@pyvr.org.
+If you are being made to feel unsafe, uncomfortable, you feel the code of conduct has been violated, or you notice this happening to someone else, please contact an organizer directly or email andy@mckay.pub
 
 ## Definition of Harassment
 
