@@ -4,6 +4,8 @@ Next meeting: [we are hoping to get a meeting going Sept 2023](https://github.co
 
 Follow this repository to hear about events and get involved.
 
+Mastodon account: https://hachyderm.io/@vanpy
+
 ---
 
 The [Vancouver Python User Group](http://www.meetup.com/vanpyz/) is a
