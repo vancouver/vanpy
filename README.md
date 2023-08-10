@@ -2,7 +2,7 @@
 
 Next meeting: [we are hoping to get a meeting going Sept 2023](https://github.com/vancouver/vanpy/issues/3) but we need speakers and a room 😀
 
-Follow this repository to hear about events and get involved.
+Watch this repository to hear about events and get involved.
 
 Mastodon account: https://hachyderm.io/@vanpy
 
