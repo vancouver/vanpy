@@ -26,8 +26,10 @@ We are just a bunch of amazing people who want to hang out and talk about Python
 * [ ] Space for people to sit, usually 12 - 50 (depending how many people come).
 * [ ] Easyish for people to get to (Vancouver and downtown, near public transit for example).
 * [ ] Good wifi for presentations and demos and so people can join remotely.
-* [ ] A big screen we can connect a laptop too for presentations and demos.
+* [ ] A big screen we can connect a laptop to for presentations and demos.
 * [ ] Washroom access.
+
+If you are company sponsoring the event by giving us some space, thank you. If you are hiring, or have a specific tool people might be interested in, then we can give you a slide or two or a minute or so at the end of the talk. That's cool by us.
 
 Things that we can't do: 😭
 * Sign non-disclosures or other agreements to hang out there.
