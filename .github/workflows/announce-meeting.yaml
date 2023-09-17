@@ -1,0 +1,21 @@
+name: Announce new meeting on Mastodon
+on:
+  issues:
+    types:
+      - labeled
+jobs:
+  add-comment:
+    if: github.event.label.name == 'Meeting'
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+    steps:
+    - name: Send toot to Mastodon
+      id: mastodon
+      uses: cbrgm/mastodon-github-action@v1
+      with:
+        message: "New Vancouver Python User Group meeting announced! ${{ github.event.issue.title }}"
+        visibility: "public"
+      env:
+        MASTODON_URL: ${{ secrets.MASTODON_URL }}
+        MASTODON_ACCESS_TOKEN: ${{ secrets.MASTODON_ACCESS_TOKEN }}
