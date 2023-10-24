@@ -1,6 +1,8 @@
 # vanpy
 
-Next meeting: is planned for October but we need speakers and a room 😀
+Next meeting: [October 25, at Jane, Django from an old timers perspective](https://github.com/vancouver/vanpy/issues/12)
+
+Meeting after that: TBD, at TDB, How to use Rust with Python
 
 Watch this repository to hear about events and get involved.
 
