@@ -24,7 +24,7 @@ If you could just check these off so we know you've read them.
 * [ ] Please ensure you've [read the code of conduct](https://github.com/vancouver/vanpy/blob/master/code_of_conduct.md)
 * [ ] Don't say things that are confidential and will get your, company, or anyone in the audience in any legal trouble 🤑
 * [ ] The person hosting the space will provide Wifi and an a screen, we'll have people dialing in remotely. If there's anything else you need, you'll let us know right? 😀
-* [ ] After the talk, positing slides and code and somewhere (even this repo) would be appreciated, but its not required.
+* [ ] After the talk, posting slides and code and somewhere (even this repo) would be appreciated, but its not required.
 
 ## Additional context
 Anything else you'd want to add.
