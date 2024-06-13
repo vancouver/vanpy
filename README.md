@@ -1,18 +1,12 @@
-# vanpy
+The primary place for Python user  in Vancouver to get involved in the community. Come to events and meet other Python users.
 
-Watch this repository to hear about events and get involved.
-
-Mastodon account: https://hachyderm.io/@vanpy
+Watch this repository to hear about events and get involved. Follow our Mastodon account: [https://hachyderm.io/@vanpy](https://hachyderm.io/@vanpy)
 
 ---
 
-## Previous meetings:
-
-* [Sept 2023](https://github.com/vancouver/vanpy/issues/3)
+**Important** If you want to follow what's going on, please click `Watch` and then `All activity`. This [post explains more](https://mckay.pub/2024-06-12-leaving-meetup/).
 
 ---
 
 The [Vancouver Python User Group](http://www.meetup.com/vanpyz/) is a
 volunteer-run community of Python users based in Vancouver, BC Canada.
-
-This repository is the primary source of information about the user group and we'll try to deprecate the old meetup groups of DjangoVan https://www.meetup.com/djangovan and VanPyz https://www.meetup.com/vanpyz/ into this one repository.
