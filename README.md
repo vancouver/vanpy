@@ -1,6 +1,6 @@
 ## About
 
-The primary place for Python users in Vancouver to get involved in the community. Come to events and meet other Python users.
+The primary place for Python users in Vancouver, BC to get involved in the community. Come to events and meet other Python users.
 
 This user group has been running in some format for over 24 years 🎉 and we hope to keep it going.
 
@@ -10,21 +10,16 @@ You can also follow our Mastodon account: [https://hachyderm.io/@vanpy](https://
 
 This [post explains more](https://mckay.pub/2024-06-12-leaving-meetup/) about why we dont use Meetup.
 
----
-
-The [Vancouver Python User Group](http://www.meetup.com/vanpyz/) is a
-volunteer-run community of Python users based in Vancouver, BC Canada.
-
 ## Organizers
 
 Andy McKay @andymckay
 
-We are looking for more people to help organize and run meetings. It really doesn't take much to do, so please help out of you can.
+We are looking for more people to help volunteer to organize and run meetings. It really doesn't take much time, so please help out of you can.
 
 ### Previous organizers 
 
-Bryan Chow
-Seb Vetter
+* Bryan Chow
+* Seb Vetter
 
 And many more. Thank you for your work in the past keeping this going.
 
