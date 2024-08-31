@@ -12,7 +12,7 @@ This [post explains more](https://mckay.pub/2024-06-12-leaving-meetup/) about wh
 
 ## Organizers
 
-Andy McKay @andymckay
+Andy McKay: [@andymckay](https://github.com/andymckay/)
 
 We are looking for more people to help volunteer to organize and run meetings. It really doesn't take much time, so please help out of you can.
 
