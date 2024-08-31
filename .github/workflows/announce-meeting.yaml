@@ -14,7 +14,7 @@ jobs:
       id: mastodon
       uses: cbrgm/mastodon-github-action@v1
       with:
-        message: "New Vancouver Python User Group meeting announced! ${{ github.event.issue.title }}"
+        message: "New Vancouver Python User Group meeting announced 👉 ${{ github.event.issue.title }} ${{ github.event.issue.html_url }} "
         visibility: "public"
       env:
         MASTODON_URL: ${{ secrets.MASTODON_URL }}
