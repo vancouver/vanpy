@@ -1,6 +1,14 @@
+## Upcoming meetings
+
+|When|Where|Title|
+|-|-|-|
+|September 9th|[OXD offices](https://github.com/vancouver/vanpy/issues/27)|[September round table](https://github.com/vancouver/vanpy/issues/28)|
+
+[Previous meetings](https://github.com/vancouver/vanpy/issues?q=is%3Aissue+label%3AMeeting+is%3Aclosed)
+
 ## About
 
-The primary place for Python users in Vancouver, BC to get involved in the community. Come to events and meet other Python users.
+The primary place for Python users in Vancouver, BC to get involved in the community. [Come to events and meet other Python users](https://github.com/vancouver/vanpy/issues?q=is%3Aissue+label%3AMeeting+).
 
 This user group has been running in some format for over 24 years 🎉 and we hope to keep it going.
 
