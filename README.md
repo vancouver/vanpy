@@ -2,7 +2,6 @@
 
 |When|Where|Title|
 |-|-|-|
-|September 9th|[OXD offices](https://github.com/vancouver/vanpy/issues/27)|[September round table](https://github.com/vancouver/vanpy/issues/28)|
 
 [Previous meetings](https://github.com/vancouver/vanpy/issues?q=is%3Aissue+label%3AMeeting+is%3Aclosed)
 
